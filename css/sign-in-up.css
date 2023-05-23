@@ -1,0 +1,35 @@
+.div-container {
+    width: 65vw;
+    height: 70vh;
+    font-size: 60px;
+    margin-top: 5%;
+    padding: 10px;  
+    display: grid;
+    grid-template-columns: auto;
+}
+
+.back-btn {
+    position: absolute;
+    left: 5%;
+    margin-top: 20%;
+}
+
+.sign-up-div {
+    width: 30vw;
+    position: relative;
+    margin: auto;
+    right: 20px;
+}
+
+.sign-in-div {
+    width: 30vw;
+    position: relative;
+    margin: auto;
+    margin-top: -10%;
+    right: 20px;
+}
+
+.form input{
+    padding: 20px;
+    width: 20vh;
+}
