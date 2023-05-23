@@ -1,0 +1,14 @@
+.div-container {
+    width: 65vw;
+    height: 50vh;
+    font-size: 60px;
+    margin-top: 5%;
+    padding: 10px;  
+}
+
+.btn-div {
+    margin: 20vh;
+    display: grid;
+    grid-template-columns: auto auto;
+    gap: 20px;
+}
